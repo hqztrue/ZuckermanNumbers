@@ -1,0 +1,2 @@
+/var/spool/slurm/job11912/slurm_script: line 22: 835509 Killed                  ./Zuckerman 3
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=11912.batch cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.

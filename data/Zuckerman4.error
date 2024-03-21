@@ -1,0 +1,2 @@
+Zuckerman: Zuckerman.cpp:31: void Hash::init(int): Assertion `h' failed.
+/var/spool/slurm/job11921/slurm_script: line 22: 849811 Aborted                 (core dumped) ./Zuckerman 4

@@ -1,0 +1,23 @@
+# *.cpp
+# *.c
+# *.java
+# *.py
+
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.bak
+*.exe
+*.bat
+*.htm
+*.html
+*.in
+*.class
+*.dll
+
+info.txt
+tmp.txt
+sta.bat
+/tmp
